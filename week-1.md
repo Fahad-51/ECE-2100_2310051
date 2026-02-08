@@ -56,7 +56,6 @@ All user passwords are securely encrypted using **bcrypt** before being stored i
 
 
 ---
----
 
 **Author:** Nahidul Islam Fahad  
 **Roll:** 2310051  
