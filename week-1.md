@@ -60,10 +60,11 @@ All user passwords are securely encrypted using **bcrypt** before being stored i
 
 **Author:** Nahidul Islam Fahad  
 **Roll:** 2310051  
-**Department:** Electrical & Computer Engineering (ECE)  
-**University:** Rajshahi University of Engineering & Technology (RUET)  
 **Course Code:** ECE-2100  
 **Course Title:** Software Development Project I  
+**Department:** Electrical & Computer Engineering (ECE)  
+**University:** Rajshahi University of Engineering & Technology (RUET)  
+
 
 
 
