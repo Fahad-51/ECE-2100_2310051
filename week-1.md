@@ -51,11 +51,12 @@ All user passwords are securely encrypted using **bcrypt** before being stored i
 
 ## 🔜 Next Plan (Week 2)
 
-- Start learning **Frontend Development**
-- Integrate frontend with backend authentication system
-
+- Begin learning frontend development
+- Integrate frontend with the backend authentication system
 
 ---
+
+## 👤 Author Information
 
 **Author:** Nahidul Islam Fahad  
 **Roll:** 2310051  
@@ -63,6 +64,6 @@ All user passwords are securely encrypted using **bcrypt** before being stored i
 **University:** Rajshahi University of Engineering & Technology (RUET)  
 **Course Code:** ECE-2100  
 **Course Title:** Software Development Project I  
-**Stack:** MERN  
+
 
 
