@@ -1,6 +1,6 @@
 # Weekly Progress Report – Week 1  
 **Project:** Online Pastry & Coffee Shop  
-**Duration:** (01 February 2026) – (07 February 2026)
+**Duration:** 01 February 2026 – 07 February 2026
 
 ---
 
