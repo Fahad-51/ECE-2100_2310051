@@ -79,10 +79,9 @@ This phase involved implementing authentication features **end-to-end**, from us
 
 ## 🔜 Next Plan (Week 4)
 
-- Implement user profile management  
-- Add image upload functionality  
-- Begin product listing and shop features  
-- Improve frontend UI/UX design  
+- Complete backend development for the **Home page**
+- Implement backend APIs for **user profile management**
+- Prepare APIs for frontend integration
 
 ---
 
